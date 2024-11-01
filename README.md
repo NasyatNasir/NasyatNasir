@@ -12,6 +12,9 @@ I'm a UTM student, and this is my journey in SECP1513-01 Technology And Informat
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NasyatNasir&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NasyatNasir&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+# My Journey
+![]( https://img.shields.io/badge/SECP1513-01-blue)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
