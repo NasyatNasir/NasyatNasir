@@ -27,7 +27,7 @@ I'm a university student diving deep into the world of **Technology** and **Syst
 ---
 
 ### 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true)
+![NasyatNasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NasyatNasir&show_icons=true&theme=github_dark&hide_border=true)
 
 ---
 
