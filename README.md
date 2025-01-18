@@ -47,7 +47,8 @@ I'm a university student diving deep into the world of **Technology** and **Syst
 
 <details>
   <summary>📚 Industrial Talk II</summary>
-![image](https://github.com/user-attachments/assets/c213499c-5a96-47e6-a359-afe5edc9b30b)
+  ![image](https://github.com/user-attachments/assets/d277909f-6553-4fcc-826e-f3d13970d1b2)
+
 
 
 </details>
