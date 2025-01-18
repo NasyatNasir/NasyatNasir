@@ -26,7 +26,7 @@ I'm a university student diving deep into the world of **Technology** and **Syst
 
 ---
 
-### 🔭 My Journey So Far
+### 🔭 My Journey
 <details>
   <summary>📚 PC Maintenance</summary>
   
@@ -58,17 +58,16 @@ I'm a university student diving deep into the world of **Technology** and **Syst
 
 <details>
   <summary>📚 Industrial Visit</summary>
-  
-  <details>
-    
-  </details>
+  ![IMG_20241217_135752_981](https://github.com/user-attachments/assets/bff59cd3-60a9-4788-b08f-98af145f2388)
+
 
   
 </details>
 
 <details>
   <summary>📚 Industrial Talk II</summary>
-  
+  ![IMG_20241217_135752_981](https://github.com/user-attachments/assets/9b540c5b-0498-44f8-8065-cb12a2014583)
+
 
 
 
