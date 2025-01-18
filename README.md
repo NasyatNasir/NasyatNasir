@@ -15,8 +15,14 @@ I'm a university student diving deep into the world of **Technology** and **Syst
 ---
 
 ### 🌱 Currently Learning
-- Technology in Information Communication
+- Technology in Information Communicatio
 - Hardware
+- Software
+- Information System & Methodology
+- Database and Data Analytics
+- Network and Communications
+- Privacy, Security, and Ethics
+- Cloud Computing
 
 ---
 
@@ -33,6 +39,10 @@ I'm a university student diving deep into the world of **Technology** and **Syst
   <summary>📚 Industrial Talk I</summary>
 
   ![image](https://github.com/user-attachments/assets/c638f4f5-cdea-4db8-b93c-a58ec3bdee5b)
+  # About
+  > chakapp chakap
+  # What have I learned
+  > ayam goreng
 </details>
 
 <details>
@@ -47,7 +57,7 @@ I'm a university student diving deep into the world of **Technology** and **Syst
 
 <details>
   <summary>📚 Industrial Talk II</summary>
-  ![image](https://github.com/user-attachments/assets/d277909f-6553-4fcc-826e-f3d13970d1b2)
+  
 
 
 
