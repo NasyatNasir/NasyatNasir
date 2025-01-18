@@ -40,9 +40,20 @@ I'm a university student diving deep into the world of **Technology** and **Syst
 
   ![image](https://github.com/user-attachments/assets/c638f4f5-cdea-4db8-b93c-a58ec3bdee5b)
   # About
-  > chakapp chakap
+  > During clarity tech work industrial talk, all speakers have shared the overview of job scope, technology used, difference between the experience of work life and study life, essential skills required during work and their advice for university students.
   # What have I learned
-  > ayam goreng
+  > From the advice of ex-CTO of Clarity Techworks, no matter how well you do in your job, bad attitude will not only waste our talent, but it will also ruin the whole comunitry dynamic. This emphasize while skills are important, they are not enough on their own. Without  a great attitude someone’s talent will be wasted and disrupt the group effort. Achieving success in this fast-paced era of technology, the companies require strong soft skills, such as communication, problem-solving, and ability to adapt in different conditions.
+
+  >Other than that, self-learning and continuous improvement are important for anyone who desires success in this rapidly evolving technological world. We should not always rely on others for guidance, it is high time for us to embrace the challenges by taking step out of our comfort zone. Since the competition keeps rising surpass the limit, we required to keep striving independently to achieve a great and successful career in the future.
+
+  >Lastly, communication and analytic thinking are also important in providing innovation and efficiency in IT-related jobs. These skills are essential for effective problem-solving for beginners as they need to survive in this technology-driven world which can be quite stressful
+
+![Clarity Techworks - Industrial Talk](https://github.com/user-attachments/assets/e2cbe5bc-81f4-40df-8762-5cad54abb209)
+[Clarity Techworks - Industrial Talk.pdf](https://github.com/user-attachments/files/18465050/Clarity.Techworks.-.Industrial.Talk.pdf)
+
+
+
+
 </details>
 
 <details>
@@ -62,7 +73,13 @@ I'm a university student diving deep into the world of **Technology** and **Syst
 
 
 </details>
-  
+  <details>
+  <summary>📚 Design Thinking Project</summary>
+  </details>  
+
+
+
+</details>
 
 
 ---
