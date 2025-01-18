@@ -27,8 +27,32 @@ I'm a university student diving deep into the world of **Technology** and **Syst
   ![photo_2024-11-01_22-44-50](https://github.com/user-attachments/assets/d318e029-ae39-4210-9ad6-510aebd913ff)
   # Reflection
   > I've learned about PC assemble before but only on online platform. In this PC maintenance workshop, I can enhance my skill in PC maintenance. The thing that surprised me is that when assembling a PC, we can't be too gentle because some computer components require some pressure to work properly.
+</details>
+
+<details>
+  <summary>📚 Industrial Talk I</summary>
+
+  ![image](https://github.com/user-attachments/assets/c638f4f5-cdea-4db8-b93c-a58ec3bdee5b)
+</details>
+
+<details>
+  <summary>📚 Industrial Visit</summary>
+  
+  <details>
+    
+  </details>
+
   
 </details>
+
+<details>
+  <summary>📚 Industrial Talk II</summary>
+![image](https://github.com/user-attachments/assets/c213499c-5a96-47e6-a359-afe5edc9b30b)
+
+
+</details>
+  
+
 
 ---
 
