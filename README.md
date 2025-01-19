@@ -29,6 +29,12 @@ I'm a university student diving deep into the world of **Technology** and **Syst
 ### 🔭 My Journey
 <details>
   <summary>📚 PC Maintenance</summary>
+
+  ---
+
+  ![2](https://github.com/user-attachments/assets/203303c9-d92a-4c79-b403-2ad31b5c0399)
+
+  ---
   
   ![photo_2024-11-01_22-44-50](https://github.com/user-attachments/assets/d318e029-ae39-4210-9ad6-510aebd913ff)
   # Reflection
@@ -37,6 +43,12 @@ I'm a university student diving deep into the world of **Technology** and **Syst
 
 <details>
   <summary>📚 Industrial Talk I</summary>
+
+  ---
+
+  ![3](https://github.com/user-attachments/assets/73648d5b-d4f6-4e7f-b93b-bada6452e2b7)
+
+  ---
 
   ![image](https://github.com/user-attachments/assets/c638f4f5-cdea-4db8-b93c-a58ec3bdee5b)
   # About
@@ -58,7 +70,16 @@ I'm a university student diving deep into the world of **Technology** and **Syst
 
 <details>
   <summary>📚 Industrial Visit</summary>
+
+  ---
+  ![4](https://github.com/user-attachments/assets/1a18f470-a99d-4d54-ac93-cfc82d2c2cdb)
+
+  ---
+  
   ![IMG_20241217_135752_981](https://github.com/user-attachments/assets/bff59cd3-60a9-4788-b08f-98af145f2388)
+  
+  # About
+  > Visit to UTM Digital was conducted on 17th of December. This visit to UTM Digital involved four sections from Faculty of Computing student, including Section 1, Section 7, Section 8, and Section 9. 
 
 
   
@@ -66,16 +87,32 @@ I'm a university student diving deep into the world of **Technology** and **Syst
 
 <details>
   <summary>📚 Industrial Talk II</summary>
-  ![IMG_20241217_135752_981](https://github.com/user-attachments/assets/9b540c5b-0498-44f8-8065-cb12a2014583)
+
+  ---
+  ![5](https://github.com/user-attachments/assets/0e493b97-dba5-4296-b478-5c3908f02124)
+
+  ---
+
+  
+
 
 
 
 
 </details>
+
   <details>
   <summary>📚 Design Thinking Project</summary>
-  </details>  
 
+  ---
+
+  ![6](https://github.com/user-attachments/assets/05d3510f-982a-48cc-a462-af7aaeaa9df8)
+
+  ---
+
+    
+  </details>  
+  
 
 
 </details>
