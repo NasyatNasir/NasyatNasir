@@ -1,7 +1,7 @@
 # 🌌 Welcome to My GitHub Profile
 
 ### Hello, I'm Nasyat! 
-> Technology & System Information Student | Aspiring Innovator 🌟
+> Computer Science (Bioinformatics) Student | Aspiring Innovator 🌟
 
 ---
 
@@ -9,7 +9,13 @@
 
 
 ### 🚀 About Me
-I'm a university student diving deep into the world of **Technology** and **System Information**. Every line of code and project brings me closer to understanding how we can use technology to solve complex problems and innovate for a better future. Follow along as I explore new concepts, build exciting projects, and share my progress!
+
+I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysia. Every project and line of code brings me closer to understanding how we can use tehcnology to solve complex problems and innovate for a better fututre. Follow me as I explore new concepts, build exciting projects, and share my progress!
+
+#### My Education Journey
+![Step Process Project Management Timeline Diagram Brainstorm (1)](https://github.com/user-attachments/assets/5f968596-a7e0-4df2-8280-d7e205f27892)
+
+
 
 
 ---
@@ -203,7 +209,8 @@ I'm a university student diving deep into the world of **Technology** and **Syst
 ### 📫 Get in Touch
 - nasirnasyat@gmail.com
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mecha3179) 
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmdnsyt_) 
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmdnsyt_)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%56687a.svg?logo=LinkedIn&logoColor=white)](https://github.com/NasyatNasir/)  
 ---
 
 ### ✍️ Random Dev Quote
