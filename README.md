@@ -210,7 +210,7 @@ I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysi
 - nasirnasyat@gmail.com
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mecha3179) 
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmdnsyt_)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%56687a.svg?logo=LinkedIn&logoColor=white)](https://github.com/NasyatNasir/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%56687a.svg?logo=LinkedIn&logoColor=white)]([https://github.com/NasyatNasir/](https://www.linkedin.com/in/nasyat-nasir-66ba30347/))  
 ---
 
 ### ✍️ Random Dev Quote
