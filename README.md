@@ -21,7 +21,7 @@ I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysi
 ---
 
 ### 🌱 Currently Learning
-- Technology in Information Communicatio
+- Technology in Information Communication
 - Hardware
 - Software
 - Information System & Methodology
