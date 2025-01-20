@@ -120,7 +120,7 @@ I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysi
   > Visiting UTM Digital gives us huge opportunities to explore how an organization similar to UTM Digital works. After visiting UTM Digital, it gives me great view of computer science, these activities show me the diversity of computer science in industry. During the UTM Digital visit, I learnt how important the teamwork. Every staff member in UTM Digital has their own task, each task needs to be completed to make sure UTM Digital is running smoothly. The visit of UTM Digital are really exciting, knows job that are related to my course, and how an important asset of UTM work from the inside. These activities really help me to understand why it is important to know certain skills during the learning and teaching process. These skills learnt in the classroom is applied directly and indirectly in the industry. Lastly, the visit to UTM Digital is amazing, the staff are friendly and open to any question we ask. During our interview with one of the UTM Digital’s staff, he shows a great personality. He answered the questions we asked well and was easy to understand. I hope we will have this opportunity again to visit UTM Digital.
 
   ## Video
-  > Come checkup our video on Industrial Visit to UTM Digital
+  > Come check out our video on Industrial Visit to UTM Digital
   > https://youtu.be/kp3NplBdvFg
  
   ---
