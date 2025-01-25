@@ -188,6 +188,46 @@ I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysi
   ---
 
   ![6](https://github.com/user-attachments/assets/05d3510f-982a-48cc-a462-af7aaeaa9df8)
+  
+  # Introduction
+  > Design thinking is a way of approach to solving problems that emphasizes the understanding of creating a product that fits the user’s need and desire, encouraging inventiveness and also developing innovation as a solution for some analyzed obstacles. This is quite crucial as design thinking is more to human-centered innovation which is highly focused on empathy where the innovators need to analyze the problem that is being faced by some of the targeted groups and come up with a mind-blowing solution that relieves the burden of the user. There are five phases of design thinking that should be considered to make this project successful.
+
+ > During our Design Thinking project, we were assigned to analyze problems do disadvantages group faces daily. After long discussion and consideration, we decided to develop Evercare for our Design Thinking project. A wonderful application that have the ability to solve each problem of elderly people in managing their health. bBy utilizing modern technology, “Evercare”  provides complete healthcare solutions that designed specifically based on the needs of elderly people to ensure them to live an independent lifestyle
+> 
+> ![image](https://github.com/user-attachments/assets/7673d952-8b6e-4c85-bd04-1278a5478fa6)
+
+
+
+
+ # Steps of Design Thinking
+ > ![Define Research Objectives](https://github.com/user-attachments/assets/0bcc56f8-2e04-4a07-b733-4664ef88464c)
+
+
+  
+  <details>
+    <summary>Emphasize</summary>
+
+  ## Interview Session
+  > [image](https://github.com/user-attachments/assets/0a68e5a1-524f-493b-84ad-5a1ae81c6974)
+  > During this phase we conducted an interview 
+
+  </details>
+
+  <details>
+    <summary>Define</summary>
+  </details>
+
+  <details>
+    <summary>Ideate</summary>
+  </details>
+
+  <details>
+    <summary>Prototype</summary>
+  </details>
+
+  <details>
+    <summary>Test</summary>
+  </details>
 
   ---
 
