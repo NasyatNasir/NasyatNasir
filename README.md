@@ -208,7 +208,7 @@ I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysi
     <summary>Emphasize</summary>
 
   ## Interview Session
-  > [image](https://github.com/user-attachments/assets/0a68e5a1-524f-493b-84ad-5a1ae81c6974)
+[image](https://github.com/user-attachments/assets/0a68e5a1-524f-493b-84ad-5a1ae81c6974)
   > During this phase we conducted an interview 
 
   </details>
