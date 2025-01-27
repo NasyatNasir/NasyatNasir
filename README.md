@@ -208,26 +208,47 @@ I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysi
     <summary>Emphasize</summary>
 
   ## Interview Session
-[image](https://github.com/user-attachments/assets/0a68e5a1-524f-493b-84ad-5a1ae81c6974)
-  > During this phase we conducted an interview 
-
+>![image](https://github.com/user-attachments/assets/0a68e5a1-524f-493b-84ad-5a1ae81c6974) 
+  >
+> During this phase we conducted an interview with Mr. Beh Ken Seong
   </details>
 
   <details>
     <summary>Define</summary>
+  
+  > ![image](https://github.com/user-attachments/assets/19ddbb1a-be29-4f3b-ae0d-b633d5fc3b20)
+> Through our interview with Mr. Beh Ken Seong, we were able to list out all challenges in elderly healthcare
   </details>
+
+
 
   <details>
     <summary>Ideate</summary>
+  
+  ![image](https://github.com/user-attachments/assets/a8a7f71f-2c94-41a6-8427-78adb3cd0d1c)
   </details>
+
+
 
   <details>
     <summary>Prototype</summary>
+  
+  ![Design Thinking](https://github.com/user-attachments/assets/0067926c-e7ef-4164-b82c-8b34bdafab79)
+  
   </details>
+
+
+
 
   <details>
     <summary>Test</summary>
+  
+  ![Screenshot 2025-01-27 151646](https://github.com/user-attachments/assets/f959dd82-3c26-4e90-b410-ed5028037c4d)
+  
   </details>
+
+  
+
 
   ---
 
@@ -250,7 +271,8 @@ I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysi
 - nasirnasyat@gmail.com
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mecha3179) 
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmdnsyt_)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%56687a.svg?logo=LinkedIn&logoColor=white)]([https://github.com/NasyatNasir/](https://www.linkedin.com/in/nasyat-nasir-66ba30347/))  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%56687a.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nasyat-nasir-66ba30347/)
+  
 ---
 
 ### ✍️ Random Dev Quote
