@@ -254,6 +254,31 @@ I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysi
 
     
   </details>  
+  <details>
+    <summary>📚 Industrial Talk III - Newsletter</summary>
+
+  ---
+
+  ![PC Maintanance (4)](https://github.com/user-attachments/assets/a047007f-b36d-4a94-b854-ab24b46d97a1)
+
+
+---
+
+  ![image](https://github.com/user-attachments/assets/62d9e467-a8d8-4589-8857-6265984ae83e)
+  # About 
+  > During this industrial talk, the speaker Nicholas Wong a senior consultant from Huawei Malaysia, talk about 5G and Wi-Fi 6. What are 5G and Wi-Fi 6? The importance of 5G and Wi-Fi 6, what can today's technologies benefit from the 5G? And Wi-Fi 6 and the future of technology with Wi-Fi 6 and 5G
+
+---
+![1](https://github.com/user-attachments/assets/b401f202-1ea8-4ed8-9583-701f2c47e750)
+
+![2](https://github.com/user-attachments/assets/f83a1710-1bc0-4a8b-84ab-c54ee7a489f9)
+
+# What I've learned
+> During the Industrial Talk I found Wi-Fi 6 and 5G are the revolution in the connectivity field. 5G provides ultra-low latency, high speeds, and is going to create a full revolution for industries like healthcare and smart cities. Wi-Fi 6 brings network efficiency, thereby allowing more and more devices to coexist inside dense environs. Both complement each other, 5G for wide-area coverage, while Wi-Fi 6 acts for local networks. Therefore, it became a must to provide unlimited bound for us to keep innovating.
+
+
+  </details>
+  
   
 
 
