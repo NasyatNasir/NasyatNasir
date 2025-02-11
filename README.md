@@ -41,6 +41,8 @@ I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysi
   ![2](https://github.com/user-attachments/assets/203303c9-d92a-4c79-b403-2ad31b5c0399)
 
   ---
+  # About
+  > We are tought and brief how to properly dissabmle the PC by dr Azura's assistants and assemble the PC back.
   
   ![photo_2024-11-01_22-44-50](https://github.com/user-attachments/assets/d318e029-ae39-4210-9ad6-510aebd913ff)
   # Reflection
