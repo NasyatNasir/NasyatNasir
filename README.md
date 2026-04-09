@@ -16,11 +16,13 @@ I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysi
 ![Step Process Project Management Timeline Diagram Brainstorm (1)](https://github.com/user-attachments/assets/5f968596-a7e0-4df2-8280-d7e205f27892)
 
 
+<img width="1770" height="354" alt="PC Maintanance" src="https://github.com/user-attachments/assets/f2a31855-b312-4017-b452-d9a948d4e9dc" />
 
 
 ---
 
 ### 🌱 Currently Learning
+
 - Technology in Information Communication
 - Hardware
 - Software
