@@ -4,7 +4,7 @@
 > Computer Science (Bioinformatics) Student | Aspiring Innovator 🌟
 
 ---
-<img width="1770" height="343" alt="PC Maintanance(1)" src="https://github.com/user-attachments/assets/55cf20f3-4050-4791-93c8-47b46542e8ca" />
+
 
 ---
 
