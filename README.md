@@ -10,7 +10,7 @@
 ---
 
 ![Untitled design](https://github.com/user-attachments/assets/c422f7af-449a-4097-8967-af9a206f3468) <!-- Add a banner image that matches your theme -->
-![photo_2024-09-22_17-52-00](https://github.com/user-attachments/assets/1afe8ae7-7605-4f28-9bfb-d9f22f85c52a)
+
 
 
 ### 🚀 About Me
