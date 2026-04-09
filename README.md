@@ -4,10 +4,11 @@
 > Computer Science (Bioinformatics) Student | Aspiring Innovator 🌟
 
 ---
+<img width="1770" height="343" alt="PC Maintanance(1)" src="https://github.com/user-attachments/assets/55cf20f3-4050-4791-93c8-47b46542e8ca" />
 
 ![Untitled design](https://github.com/user-attachments/assets/c422f7af-449a-4097-8967-af9a206f3468) <!-- Add a banner image that matches your theme -->
 
-<img width="1770" height="354" alt="PC Maintanance" src="https://github.com/user-attachments/assets/41dded7b-701c-45a5-ac75-f34b9b1fa49d" />
+
 ### 🚀 About Me
 
 I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysia. Every project and line of code brings me closer to understanding how we can use tehcnology to solve complex problems and innovate for a better fututre. Follow me as I explore new concepts, build exciting projects, and share my progress!
