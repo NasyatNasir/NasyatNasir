@@ -4,6 +4,7 @@
 > Computer Science (Bioinformatics) Student | Aspiring Innovator 🌟
 
 ---
+<spoiler><img width="432" height="577" alt="ayamgoreng png" src="https://github.com/user-attachments/assets/f64c83e3-f711-4adc-99a2-918536ef1c7f" /></spoiler>
 
 
 ---
