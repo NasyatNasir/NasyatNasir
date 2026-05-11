@@ -293,7 +293,12 @@ I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysi
 
 </details>
 
-
+  <details>
+    <summary>📚 PixelTron</summary>
+  
+  <img width="1062" height="810" alt="Screenshot 2026-05-11 204412" src="https://github.com/user-attachments/assets/ac3f8df0-5484-4f6e-a07b-675ad21836a7" />
+  
+  </details>
 ---
 
 ### 📈 GitHub Stats
