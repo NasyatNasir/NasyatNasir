@@ -299,6 +299,16 @@ I'm a first year student of Faculty of Computing in Universiti Teknologi Malaysi
   <img width="1062" height="810" alt="Screenshot 2026-05-11 204412" src="https://github.com/user-attachments/assets/ac3f8df0-5484-4f6e-a07b-675ad21836a7" />
   
   </details>
+
+  <details>
+    <summary>📚 PuffUp</summary>
+  
+  <img width="1606" height="908" alt="image" src="https://github.com/user-attachments/assets/f48fc86d-70c7-47fc-93eb-cba8bfb2d8e1" />
+  
+  </details>
+
+  
+
 ---
 
 ### 📈 GitHub Stats
